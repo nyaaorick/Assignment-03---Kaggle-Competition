@@ -12,7 +12,7 @@ It includes training, offline inference, and submission workflows built around a
 
 ## Model Artifact
 The trained model is published on Kaggle:
-- **Model name**: `best_dinov2_small_plant_pathology_fold0`
+- **Model name**: `v005pth`
 - **Kaggle model page**: https://www.kaggle.com/models/junyaoshi6416/v005pth
 
 ## Public Kaggle Notebook
